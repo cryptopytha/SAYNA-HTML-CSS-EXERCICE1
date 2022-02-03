@@ -1,0 +1,10 @@
+body{
+    background-image: url(background.png);
+}
+header .navbar .menunav{
+    display: flex;
+    float: right;
+}
+article .image{
+    display: flex;
+}
